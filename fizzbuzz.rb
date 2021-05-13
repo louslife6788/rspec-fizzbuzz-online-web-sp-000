@@ -5,3 +5,4 @@ def fizzbuzz(x)
     put"fixx"
 
   end
+end
